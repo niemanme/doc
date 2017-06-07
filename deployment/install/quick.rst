@@ -107,7 +107,7 @@ Workload Wizard to Build a Cluster with RackN UX
 
 We are using a basic Kubernetes as a reference app for this quick install.
 
-#. Select Workloads...Kubernetes from the left hand navigation and follow these steps:
+#. Select App Catalog...Kubernetes from the left hand navigation and follow these steps:
 
    #. Name the deployment.  (These names are case sensitive!) If auto-commit is left on, deployment review is skipped.  This is recommended for quick start.
    #. The OS is set when the provider is created. (Note: There may only be one.)  Do not try System (Physical) Nodes for quick start.
